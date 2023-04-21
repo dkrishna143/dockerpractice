@@ -1,1 +1,1 @@
-FROM almalinuxgit 
+FROM almalinux
